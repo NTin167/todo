@@ -1,0 +1,5 @@
+com\ptit\javaee\data\Todo.class
+com\ptit\javaee\TodoService.class
+com\ptit\javaee\TodoEJB.class
+com\ptit\javaee\TodoEJBImpl.class
+com\ptit\javaee\MyApplication.class
